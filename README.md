@@ -25,10 +25,8 @@ We are accepting submissions on relevant topics. Accepted papers will be present
 
 ### Paper Submission
 
-Please submit your manuscript in pdf directly to the workshop chairs through emails. 
+Please submit your manuscript in pdf to llmdb.workshop@gmail.com
 
-* Haixun Wang, Instacart, haixun.wang@instacart.com
-* Alon Halevy, Meta, ayh@fb.com
 
 Please ensure your submissions adhere to the VLDB format. Papers should be no more than 10 pages (including all figures, tables, and references).
 
@@ -39,3 +37,8 @@ Notification: July 20, 2023
 Final version: Aug 20, 2023
 
 Workshop: Sept 1, 2023
+
+### Workshop Organizers
+
+* Haixun Wang, Instacart
+* Alon Halevy, Meta
