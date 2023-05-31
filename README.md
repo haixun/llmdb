@@ -16,16 +16,17 @@ The workshop will solicit work and facilitate discussions on the following topic
 2. How do we model knowledge in LLMs as a database so that we can query it using SQL?
 3. How do we use relational databases to improve the performance of LLMs?
 
-### Agenda and Call for Papers
+### Workshop Program
 
 LLMDB 2023 is a half day workshop that starts on 10am, Sept 1. 
 
 We have invited distinguished researchers in this domain to give keynote talks. Details of the speakers and their talks will be shared soon.
 
-We also solicit papers on this topic. Each accepted paper will have 20 min presentation.
+We also solicit papers on the topic. Each accepted paper will have 20 min presentation.
 
-### Submission
-Please submit your manuscript in pdf directly to the organizers of the workshop through emails. 
+### Paper Submission
+
+Please submit your manuscript in pdf directly to the workshop chairs through emails. 
 
 * Haixun Wang, Instacart, haixun.wang@instacart.com
 * Alon Halevy, Meta, ayh@fb.com
