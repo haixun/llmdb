@@ -9,8 +9,7 @@ There is an urgent and exciting need to integrate relational databases and LLMs.
 
 LLMs are trained on large corpora of natural language content and provide responses in natural language, whereas databases manage structured data with a strict schema. So far, they operate in separate spaces. On the one hand, the vast amount of knowledge in relational databases is not used to train and tune LLMs, and on the other hand, relational databases are not able to access and operate on the facts contained in the LLMs.
 
-
-The workshop will solicit work and facilitate discussions on the following topics.
+The workshop will solicit work and facilitate discussions on topics including but not limited to the following:
 
 1. How do we incorporate structured or semi-structured data into LLMs?
 2. How do we model knowledge in LLMs as a database so that we can query it using SQL?
@@ -18,11 +17,11 @@ The workshop will solicit work and facilitate discussions on the following topic
 
 ### Workshop Program
 
-LLMDB 2023 is a half day workshop that starts on 10am, Sept 1. 
+The LLMDB 2023 workshop will take place on September 1 at 10:00 AM as a half day workshop.
 
-We have invited distinguished researchers in this domain to give keynote talks. Details of the speakers and their talks will be shared soon.
+We have invited distinguished researchers in this domain to deliver keynote talks. Details of the speakers and their talks will be shared soon.
 
-We also solicit papers on the topic. Each accepted paper will have 20 min presentation.
+We are accepting submissions on relevant topics. Accepted papers will be presented in 20-minute slots in the workshop.
 
 ### Paper Submission
 
