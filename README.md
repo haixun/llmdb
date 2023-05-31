@@ -25,10 +25,7 @@ We are accepting submissions on relevant topics. Accepted papers will be present
 
 ### Paper Submission
 
-Please submit your manuscript in pdf to llmdb.workshop@gmail.com
-
-
-Please ensure your submissions adhere to the [VLDB format](https://vldb.org/pvldb/volumes/16/formatting). Papers should be no more than 10 pages (including all figures, tables, and references).
+Please submit your manuscript in pdf to [llmdb.workshop@gmail.com](mailto:llmdb.workshop@gmail.com). Please ensure your submissions adhere to the [VLDB format](https://vldb.org/pvldb/volumes/16/formatting). Papers should be no more than 10 pages (including all figures, tables, and references).
 
 Submission deadline: Jun 30, 2023, 9pm PST
 
