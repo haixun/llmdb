@@ -30,22 +30,12 @@ Please submit your manuscript in pdf directly to the organizers of the workshop 
 * Haixun Wang, Instacart, haixun.wang@instacart.com
 * Alon Halevy, Meta, ayh@fb.com
 
-#### Format
-
 Please ensure your submissions adhere to the VLDB format. Papers should be no more than 10 pages (including all figures, tables, and references).
 
-Submission deadline:
+Submission deadline: Jun 30, 2023, 9pm PST
 
-* Jun 30, 2023, 9pm PST
+Notification: July 20, 2023
 
-Notification
+Final version: Aug 20, 2023
 
-* July 20, 2023
-
-Final version
-
-* Aug 20, 2023
-
-Workshop
-
-* Sept 1, 2023
+Workshop: Sept 1, 2023
