@@ -24,22 +24,22 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://www.macfound.org/media/fellows/profile_photos/re__2015_profile-200.jpg" style="width: 100px; height: auto;"/>
+    <img src="https://www.macfound.org/media/fellows/profile_photos/re__2015_profile-200.jpg" style="width: 100px; height: 120px;"/>
     <p>Christopher Ré, Stanford</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100px; height: auto;"/>
+    <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100px; height: 120px;"/>
     <p>Dan Roth, UPenn</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="tan.png" style="width: 100px; height: auto;"/>
+    <img src="tan.png" style="width: 100px; height: 120px;"/>
     <p>Wang-Chiew Tan, Meta</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://taoyds.github.io/assets/pics/tao_yu.jpeg" style="width: 100px; height: auto;"/>
+    <img src="https://taoyds.github.io/assets/pics/tao_yu.jpeg" style="width: 100px; height: 120px;"/>
     <p>Tao Yu, HKU</p>
 </div>
 
