@@ -23,6 +23,30 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 
 We are accepting submissions on relevant topics. Accepted papers will be presented in 20-minute slots in the workshop.
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; margin: 1em; text-align: center;">
+    <img src="url_of_image_1" style="width: 100%; height: auto;"/>
+    <p>Person1 Name</p>
+</div>
+
+<div style="flex: 1; margin: 1em; text-align: center;">
+    <img src="url_of_image_2" style="width: 100%; height: auto;"/>
+    <p>Person2 Name</p>
+</div>
+
+<div style="flex: 1; margin: 1em; text-align: center;">
+    <img src="url_of_image_3" style="width: 100%; height: auto;"/>
+    <p>Person3 Name</p>
+</div>
+
+<div style="flex: 1; margin: 1em; text-align: center;">
+    <img src="url_of_image_4" style="width: 100%; height: auto;"/>
+    <p>Person4 Name</p>
+</div>
+
+</div>
+
 ### Paper Submission
 
 Please submit your manuscript in pdf to [llmdb.workshop@gmail.com](mailto:llmdb.workshop@gmail.com). Please ensure your submissions adhere to the [VLDB format](https://vldb.org/pvldb/volumes/16/formatting). Papers should be no more than 10 pages (including all figures, tables, and references).
