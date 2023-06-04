@@ -19,33 +19,34 @@ The workshop will solicit work and facilitate discussions on topics including bu
 
 The LLMDB 2023 workshop will take place on September 1 at 10:00 AM as a half day workshop.
 
-We have invited distinguished researchers in this domain to deliver keynote talks. Details of the speakers and their talks will be shared soon.
-
-We are accepting submissions on relevant topics. Accepted papers will be presented in 20-minute slots in the workshop.
+We have invited distinguished researchers in this domain to deliver keynote talks. Details of the speakers and their talks will be shared soon. Here are the confirmed keynote speakers.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" style="width: 100%; height: auto;"/>
+    <img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" style="width: 100px; height: auto;"/>
     <p>Christopher Ré, Stanford</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100%; height: auto;"/>
+    <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100px; height: auto;"/>
     <p>Dan Roth, UPenn</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://wangchiew.github.io/wangchiew2.JPG" style="width: 100%; height: auto;"/>
+    <img src="https://wangchiew.github.io/wangchiew2.JPG" style="width: 100px; height: auto;"/>
     <p>Wang-Chiew TAN, Facebook</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://taoyds.github.io/assets/pics/tao_yu.jpeg" style="width: 100%; height: auto;"/>
+    <img src="https://taoyds.github.io/assets/pics/tao_yu.jpeg" style="width: 100px; height: auto;"/>
     <p>Tao Yu, HKU</p>
 </div>
 
 </div>
+
+We are accepting submissions on relevant topics. Accepted papers will be presented in 20-minute slots in the workshop.
+
 
 ### Paper Submission
 
