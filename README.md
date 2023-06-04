@@ -24,7 +24,7 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" style="width: 100px; height: auto;"/>
+    <img src="https://www.macfound.org/media/fellows/profile_photos/re__2015_profile-200.jpg" style="width: 100px; height: auto;"/>
     <p>Christopher Ré, Stanford</p>
 </div>
 
@@ -34,8 +34,8 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://wangchiew.github.io/wangchiew2.JPG" style="width: 100px; height: auto;"/>
-    <p>Wang-Chiew TAN, Meta</p>
+    <img src="tan.png" style="width: 100px; height: auto;"/>
+    <p>Wang-Chiew Tan, Meta</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
