@@ -26,23 +26,23 @@ We are accepting submissions on relevant topics. Accepted papers will be present
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="url_of_image_1" style="width: 100%; height: auto;"/>
-    <p>Person1 Name</p>
+    <img src="https://cs.stanford.edu/~chrismre/img/chrismre_headshot_lowres.jpg" style="width: 100%; height: auto;"/>
+    <p>Christopher Ré, Stanford</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="url_of_image_2" style="width: 100%; height: auto;"/>
-    <p>Person2 Name</p>
+    <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100%; height: auto;"/>
+    <p>Dan Roth, UPenn</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="url_of_image_3" style="width: 100%; height: auto;"/>
-    <p>Person3 Name</p>
+    <img src="https://wangchiew.github.io/wangchiew2.JPG" style="width: 100%; height: auto;"/>
+    <p>Wang-Chiew TAN, Facebook</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="url_of_image_4" style="width: 100%; height: auto;"/>
-    <p>Person4 Name</p>
+    <img src="https://taoyds.github.io/assets/pics/tao_yu.jpeg" style="width: 100%; height: auto;"/>
+    <p>Tao Yu, HKU</p>
 </div>
 
 </div>
