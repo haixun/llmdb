@@ -19,7 +19,7 @@ The workshop will solicit work and facilitate discussions on topics including bu
 
 The LLMDB 2023 workshop will take place on September 1 at 10:00 AM as a half day workshop.
 
-We have invited distinguished researchers in this domain to deliver keynote talks. Details of the speakers and their talks will be shared soon. Here are the confirmed keynote speakers.
+We have invited distinguished researchers in this domain to deliver keynote talks. Here are the confirmed keynote speakers.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
@@ -35,7 +35,7 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 
 <div style="flex: 1; margin: 1em; text-align: center;">
     <img src="https://wangchiew.github.io/wangchiew2.JPG" style="width: 100px; height: auto;"/>
-    <p>Wang-Chiew TAN, Facebook</p>
+    <p>Wang-Chiew TAN, Meta</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
