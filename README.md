@@ -48,12 +48,12 @@ The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day
 
 | Time | Agenda |
 | --------------- | --------------- |
-| 10:30 - 11:00   | Invited talk: Chris Ré, Stanford |
-| 11:00 - 11:30   | Invited talk: Dan Roth, UPenn |
+| 10:30 - 11:00   | Invited talk: Dan Roth, UPenn |
+| 11:00 - 11:30   | Invited talk: Wang-Chiew Tan, Meta |
 | 11:30 - 11:50   | Paper: Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries|
 | 11:50 - 12:10   | Paper: Towards Consistent Language Models Using Declarative Constraints |
 | 12:10 - 13:30   | Lunch break     |
-| 13:30 - 14:00   | Invited talk: Wang-Chiew Tan, Meta |
+| 13:30 - 14:00   | Invited talk: Chris Ré, Stanford |
 | 14:00 - 14:30   | Invited talk: Tao Yu, HKU |
 | 14:30 - 14:50   | Paper: Generating Data Augmentation Queries Using Large Language Models |
 
