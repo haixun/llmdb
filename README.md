@@ -17,7 +17,6 @@ The workshop will solicit work and facilitate discussions on topics including bu
 
 ### Workshop Program
 
-The LLMDB 2023 workshop will take place on September 1 at 10:00 AM as a half day workshop.
 
 We have invited distinguished researchers in this domain to deliver keynote talks. Here are the confirmed keynote speakers.
 
@@ -45,10 +44,12 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 
 </div>
 
+The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day workshop.
+
 | Time | Agenda |
 | --------------- | --------------- |
-| 10:30 - 11:00   | Invited talk: Dan Roth, UPenn |
-| 11:00 - 11:30   | Invited talk: Chris Re, Stanford |
+| 10:30 - 11:00   | Invited talk: Chris Ré, Stanford |
+| 11:00 - 11:30   | Invited talk: Dan Roth, UPenn |
 | 11:30 - 11:50   | Paper: Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries|
 | 11:50 - 12:10   | Paper: Towards Consistent Language Models Using Declarative Constraints |
 | 12:10 - 13:30   | Lunch break     |
