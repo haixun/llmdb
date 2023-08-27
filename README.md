@@ -23,11 +23,6 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <div style="flex: 1; margin: 1em; text-align: center;">
-    <img src="https://www.macfound.org/media/fellows/profile_photos/re__2015_profile-200.jpg" style="width: 100px; height: 120px;"/>
-    <p>Christopher Ré, Stanford</p>
-</div>
-
-<div style="flex: 1; margin: 1em; text-align: center;">
     <img src="https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Roth-Dan.jpg" style="width: 100px; height: 120px;"/>
     <p>Dan Roth, UPenn</p>
 </div>
@@ -35,6 +30,11 @@ We have invited distinguished researchers in this domain to deliver keynote talk
 <div style="flex: 1; margin: 1em; text-align: center;">
     <img src="tan.png" style="width: 100px; height: 120px;"/>
     <p>Wang-Chiew Tan, Meta</p>
+</div>
+
+<div style="flex: 1; margin: 1em; text-align: center;">
+    <img src="https://lorr1.github.io/Laurel_Orr_Photo.jpeg" style="width: 100px; height: 120px;"/>
+    <p>Laurel Orr, Numbers Station</p>
 </div>
 
 <div style="flex: 1; margin: 1em; text-align: center;">
@@ -53,7 +53,7 @@ The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day
 | 11:30 - 11:50   | Paper: Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries|
 | 11:50 - 12:10   | Paper: Towards Consistent Language Models Using Declarative Constraints |
 | 12:10 - 13:30   | Lunch break     |
-| 13:30 - 14:00   | Invited talk: Chris Ré, Stanford |
+| 13:30 - 14:00   | Invited talk: Laurel Orr, Numbers Station |
 | 14:00 - 14:30   | Invited talk: Tao Yu, HKU |
 | 14:30 - 14:50   | Paper: Generating Data Augmentation Queries Using Large Language Models |
 
