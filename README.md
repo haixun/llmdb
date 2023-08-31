@@ -48,14 +48,14 @@ The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day
 
 | Time | Agenda |
 | --------------- | --------------- |
-| 10:30 - 11:00   | Invited talk: Dan Roth, UPenn, _The Science of Generative AI: Focus on Reasoning_ |
-| 11:00 - 11:30   | Invited talk: Wang-Chiew Tan, Meta, _Using LLMs to Query Unstructured and Structured Data_ |
-| 11:30 - 11:50   | Paper: _Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries_ |
-| 11:50 - 12:10   | Paper: _Towards Consistent Language Models Using Declarative Constraints_ |
+| 10:30 - 11:00   | Invited talk: _The Science of Generative AI: Focus on Reasoning_ (Dan Roth / UPenn) |
+| 11:00 - 11:30   | Invited talk: _Using LLMs to Query Unstructured and Structured Data_ (Wang-Chiew Tan / Meta)|
+| 11:30 - 11:50   | Paper: _Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries_ (Thinh On et al)|
+| 11:50 - 12:10   | Paper: _Towards Consistent Language Models Using Declarative Constraints_ (Jasmin Mousavi et al) |
 | 12:10 - 13:30   | Lunch break  |
-| 13:30 - 14:00   | Invited talk: Laurel Orr, Numbers Station, _Deploying LLMs on Structured Data Tasks: Lessons from the Trenches_ |
-| 14:00 - 14:30   | Invited talk: Tao Yu, HKU, _Language Model Agents for Building Natural Language Interfaces to Data_ |
-| 14:30 - 14:50   | Paper: _Generating Data Augmentation Queries Using Large Language Models_ |
+| 13:30 - 14:00   | Invited talk: _Deploying LLMs on Structured Data Tasks: Lessons from the Trenches_ (Laurel Orr / Numbers Station)|
+| 14:00 - 14:30   | Invited talk: _Language Model Agents for Building Natural Language Interfaces to Data_ (Tao Yu / HKU) |
+| 14:30 - 14:50   | Paper: _Generating Data Augmentation Queries Using Large Language Models_ (Christopher Buss et al) |
 
 
 ### Paper Submission
