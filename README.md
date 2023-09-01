@@ -49,7 +49,7 @@ The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day
 | Time | Agenda |
 | --------------- | --------------- |
 | 10:30 - 11:00   | Invited talk: _The Science of Generative AI: Focus on Reasoning_ (Dan Roth / UPenn) |
-| 11:00 - 11:30   | Invited talk: _Using LLMs to Query Unstructured and Structured Data_ (Wang-Chiew Tan / Meta)|
+| 11:00 - 11:30   | Invited talk: [_Using LLMs to Query Unstructured and Structured Data_](https://docs.google.com/presentation/d/1G7rpKZ9MOtr3PWbsjEKUaN4ydwvws0LfSPl-_TPk9sM/edit#slide=id.g240cd705613_0_1) (Wang-Chiew Tan / Meta)|
 | 11:30 - 11:50   | Paper: _Proportionate  Diversification  of Top-k  LLM  Results  using Database  Queries_ (Thinh On et al)|
 | 11:50 - 12:10   | Paper: _Towards Consistent Language Models Using Declarative Constraints_ (Jasmin Mousavi et al) |
 | 12:10 - 13:30   | Lunch break  |
