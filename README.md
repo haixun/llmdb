@@ -54,7 +54,7 @@ The LLMDB 2023 workshop will take place on September 1 at 10:30 AM as a half day
 | 11:50 - 12:10   | Paper: _Towards Consistent Language Models Using Declarative Constraints_ (Jasmin Mousavi et al) |
 | 12:10 - 13:30   | Lunch break  |
 | 13:30 - 14:00   | Invited talk: _Deploying LLMs on Structured Data Tasks: Lessons from the Trenches_ (Laurel Orr / Numbers Station)|
-| 14:00 - 14:30   | Invited talk: _Language Model Agents for Building Natural Language Interfaces to Data_ (Tao Yu / HKU) |
+| 14:00 - 14:30   | Invited talk: [_Language Model Agents for Building Natural Language Interfaces to Data_](https://docs.google.com/presentation/d/1dMXn_lqIhHEkN7QbexWcEl1EDnHDHV6ZnYISL3Rmv1c/edit?resourcekey=0-Bxtrtq3i9AGY93KypzcbLA#slide=id.g25364ab73c9_0_14) (Tao Yu / HKU) |
 | 14:30 - 14:50   | Paper: _Generating Data Augmentation Queries Using Large Language Models_ (Christopher Buss et al) |
 
 
